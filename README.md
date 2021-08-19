@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Overview of the analysis: 
+## Overview of the Analysis: 
 
 The purpose of this analysis is to assess which supervised machine learning model performs better at determining which customer loan applicants would be risky commitments.
 
@@ -34,7 +34,7 @@ Summarize the results of the machine learning models, and include a recommendati
 
 ![image](https://user-images.githubusercontent.com/79073778/129510201-7dc0d74b-712a-40bc-94fc-bf6566fe8ff2.png)
 
-*Over & Undersampling
+*Combination (Over & Under) Sampling
 
 ![image](https://user-images.githubusercontent.com/79073778/129510383-a6aaa341-b2a0-4da2-ab21-906bcc0dbafe.png)
 
