@@ -7,11 +7,7 @@ The purpose of this analysis is to assess which supervised machine learning mode
 ## Results: 
 
 ![image](https://user-images.githubusercontent.com/79073778/130117004-2511d7b5-9035-41bb-8029-5b463aa31f16.png)
-
-								
-![image](https://user-images.githubusercontent.com/79073778/130116847-92614d28-277b-4a39-bff8-9d067431b863.png)
-
-![image](https://user-images.githubusercontent.com/79073778/130116693-36d30d58-a1ba-40f5-9f67-18874a7f694f.png)
+							
 
 *Naive Random Oversampling
 ![image](https://user-images.githubusercontent.com/79073778/129509890-db1d465a-cb24-4b6e-a108-d6a367b39acd.png)
