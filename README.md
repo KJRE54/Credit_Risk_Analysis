@@ -2,9 +2,11 @@
 
 ## Overview of the analysis: 
 
-Explain the purpose of this analysis.
+The purpose of this analysis is to assess which supervised machine learning model performs better at determining which customer loan applicants would be risky commitments.
 
 ## Results: 
+![image](https://user-images.githubusercontent.com/79073778/130116693-36d30d58-a1ba-40f5-9f67-18874a7f694f.png)
+
 *Naive Random Oversampling
 ![image](https://user-images.githubusercontent.com/79073778/129509890-db1d465a-cb24-4b6e-a108-d6a367b39acd.png)
 ![image](https://user-images.githubusercontent.com/79073778/129509988-a9642c43-169d-42d7-8663-5c8e2c544f2b.png)
@@ -17,7 +19,7 @@ Explain the purpose of this analysis.
 ![image](https://user-images.githubusercontent.com/79073778/129510164-f533538c-ab86-409a-a894-5741968b0786.png)
 ![image](https://user-images.githubusercontent.com/79073778/129510201-7dc0d74b-712a-40bc-94fc-bf6566fe8ff2.png)
 
-*Over & Undersmapling
+*Over & Undersampling
 ![image](https://user-images.githubusercontent.com/79073778/129510342-a5ed619b-0e9d-4b76-92aa-1b8ab036871c.png)
 ![image](https://user-images.githubusercontent.com/79073778/129510383-a6aaa341-b2a0-4da2-ab21-906bcc0dbafe.png)
 
@@ -27,7 +29,7 @@ Explain the purpose of this analysis.
 ![image](https://user-images.githubusercontent.com/79073778/129510509-6025a601-0216-4fed-9b1e-d7ffc929ed0f.png)
 ![image](https://user-images.githubusercontent.com/79073778/129510636-9514649a-d3c5-42eb-8e4f-ecdc7226e660.png)
 
-* Easy Ensemble AdaBoost
+*Easy Ensemble AdaBoost
 ![image](https://user-images.githubusercontent.com/79073778/129510735-d05161c7-0cf8-48e6-a681-cd5c3103a780.png)
 
 
