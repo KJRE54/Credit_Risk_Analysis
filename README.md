@@ -39,8 +39,8 @@ Summarize the results of the machine learning models, and include a recommendati
 ![image](https://user-images.githubusercontent.com/79073778/129510383-a6aaa341-b2a0-4da2-ab21-906bcc0dbafe.png)
 
 *Random Forest Model
+
 ![image](https://user-images.githubusercontent.com/79073778/129510509-6025a601-0216-4fed-9b1e-d7ffc929ed0f.png)
-![image](https://user-images.githubusercontent.com/79073778/129510636-9514649a-d3c5-42eb-8e4f-ecdc7226e660.png)
 
 *Easy Ensemble AdaBoost
 
